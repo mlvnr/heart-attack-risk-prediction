@@ -32,7 +32,7 @@ st.set_page_config(
 st.markdown("""
 <style>
     .main-title {
-        font-size: 2.4rem; font-weight: 800; color: #0F3057;
+        font-size: 2.4rem; font-weight: 800; color: #E3F2FD;
         margin-bottom: 0.2rem;
     }
     .subtitle { color: #6C757D; font-size: 1rem; margin-bottom: 1.5rem; }
